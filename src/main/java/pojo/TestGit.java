@@ -3,6 +3,6 @@ package pojo;
 public class TestGit {
 	public static void main(String[] args) {
 		System.out.println(":(");
-		System.out.println("Ôö¼ÓÁËÒ»ÌõÓï¾ä");
+		System.out.println("å¢åŠ äº†ä¸€æ¡è¯­å¥");
 	}
 }
